@@ -4,6 +4,7 @@
 ##图标资源
 *   [iconfont](http://www.iconfont.cn/)
 *   [thenounproject](https://thenounproject.com/)
+*   [Youtube Audio Liaary]{http://www.youtube.com/audiolibrary/music}
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
